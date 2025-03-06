@@ -44,12 +44,6 @@ The following methodologies were implemented to achieve the project objectives:
 * `numpy`
 * `scikit-learn`
 
-## Execution Instructions
-
-1.  Ensure all required Python libraries are installed: `pip install -r requirements.txt` (if `requirements.txt` is present) or `pip install pandas matplotlib seaborn numpy scikit-learn`.
-2.  Place `diamonds.csv` in the same directory as `diamonds_analysis.py`.
-3.  Execute the script: `python diamonds_analysis.py`.
-
 ## Outcomes and Implications
 
 This project demonstrates a systematic and technically rigorous approach to data preparation, encompassing data ingestion, cleaning, exploratory analysis, and feature engineering. The generated insights and preprocessed dataset lay a robust foundation for building high-performance predictive models and conducting further statistical analyses, enabling data-driven decision-making in the context of diamond pricing and valuation.
