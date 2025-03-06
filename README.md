@@ -1,0 +1,2 @@
+# Data Analytics Beginner PROJECTS
+ "This repository encapsulates my data analytics portfolio, designed to illustrate a comprehensive skillset spanning foundational data manipulation and exploratory analysis, through to intermediate-level predictive modeling and insightful visualization. It comprises a series of projects across diverse domains, each meticulously crafted to showcase my ability to derive actionable intelligence from complex datasets.
